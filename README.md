@@ -9,3 +9,5 @@ The MacBook Air SuperDrive (MB397G/A) works with MBP (El Capitan ver 10.11.3)
 2) Find "com.apple.Boot.plist" (/Library/Preferences/SystemConfiguration/)   
 3) insert the "mbasd=1" into the "Kernel Flags"   
 4) Enable SIP   
+
+日本語での手順は、[MacBook Air専用USB Super Drive (MB397G/A)をMBP (El Capitan)で動かしてみました](http://www.ken-g.com/blog/archives/201603/macbook-air-superdrive-elcapitan.html)に記載しています。
